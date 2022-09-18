@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **musfique113@gmail.com**
 
-- ⚡ Fun fact **I love to sleep.😴**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
