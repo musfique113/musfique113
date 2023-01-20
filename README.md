@@ -1,6 +1,6 @@
-<h1 >I'm Musfique, a CSE student, passionate about solving problems and building things with code</h1> 
-<h2 align="center">Always open for new and interesting projects. Let's connect and make something awesome together</h2>
-<h3 align="center">Data Analyst Aspirant</h3>
+<h2 align="center">I'm Musfique, a CSE student, passionate about solving problems and building things with code</h2> 
+<h4 align="center">Always open for new and interesting projects. Let's connect and make something awesome together</h4>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musfique113&label=Profile%20views&color=0e75b6&style=flat" alt="musfique113" /> </p>
 
