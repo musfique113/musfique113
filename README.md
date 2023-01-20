@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musfique113&label=Profile%20views&color=0e75b6&style=flat" alt="musfique113" /> </p>
 
-- 🔭 I’m currently working on **GUB Class Arcived**
+- 🔭 I’m currently working on **WebShowWatchlist**
 
-- 🤝 I’m looking for help with **data analyst**
+- 🤝 I’m looking for help with **data analyst and android devlopment**
 
 - 👨‍💻 All of my projects are available at [https://muspick.tech/](https://muspick.tech/)
 
