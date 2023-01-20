@@ -1,4 +1,4 @@
-<-- <h1 align="center"> A CSE student </h1>  -->
+#<h1 align="center"> A CSE student </h1>
 <h2 align="center">Coding, debugging, and delivering greatness</h2> 
 <h3>~that's Musfique, a CSE student.</h3>
 <h4 align="center">Always open for new and interesting projects. Let's connect and make something awesome together</h4>
