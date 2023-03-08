@@ -38,6 +38,9 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=musfique113)  
 </details>	
 
+
+<details>	
+<summary>Wakatime Stats</summary>  
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2054%20mins-blue)
 
@@ -121,3 +124,4 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
  Last Updated on 08/03/2023 08:16:59 UTC
 <!--END_SECTION:waka-->
+</details>	
