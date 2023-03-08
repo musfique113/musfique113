@@ -1,3 +1,4 @@
+<!--START_SECTION:waka-->
 <h1 align="center">Coding, debugging, and delivering greatness.</h1> 
 <h4 align="center">~that's Musfique, a CSE student</h4>
 <h5 align="center">Always open for new and interesting projects. Let's connect and make something awesome together.</h5>
@@ -42,7 +43,7 @@
 
 <details>	
 <summary>Wakatime Stats</summary>  
-<!--START_SECTION:waka-->
+
 
 **🐱 My GitHub Data** 
 
