@@ -8,7 +8,6 @@
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2054%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.5%20million%20lines%20of%20code-blue)
 
 - 🔭 I’m currently working on [WebShowWatchlist](https://github.com/musfique113/WebShowWatchlist)
 
