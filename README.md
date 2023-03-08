@@ -8,6 +8,8 @@
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2054%20mins-blue)
 
+![Lines of code](https://img.shields.io/badge/De%20Hello%20World%2C%20j%27ai%20%C3%A9crit-2.8%20million%20Lignes%20de%20code-blue)
+
 - 🔭 I’m currently working on [WebShowWatchlist](https://github.com/musfique113/WebShowWatchlist)
 
 - 🤝 I’m looking for help with **data analyst and android devlopment**
