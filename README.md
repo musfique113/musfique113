@@ -133,9 +133,9 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
+<!-- **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/musfique113/musfique113/main/assets/bar_graph.png)
+![Lines of Code chart](https://raw.githubusercontent.com/musfique113/musfique113/main/assets/bar_graph.png) -->
 
 
  Last Updated on 12/03/2023 18:09:41 UTC
