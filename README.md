@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [WebShowWatchlist](https://github.com/musfique113/WebShowWatchlist)
 
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/musfique113/Chat_Application)](https://github.com/musfique113/Chat_Application)
-
 - 🤝 I’m looking for help with **data analyst and android devlopment**
 
 - 👨‍💻 All of my projects are available at [https://muspick.tech/](https://muspick.tech/)
