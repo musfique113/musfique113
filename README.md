@@ -4,11 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musfique113&label=Profile%20views&color=0e75b6&style=flat" alt="musfique113" /> </p>
 
-
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem-git-master-musfique113.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
-</div>
-
 - 🔭 I’m currently working on [WebShowWatchlist](https://github.com/musfique113/WebShowWatchlist)
 
 - 🤝 I’m looking for help with **data analyst and android devlopment**
