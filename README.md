@@ -6,7 +6,7 @@
 
 
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem-eight-sable.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+  [![Spotify](https://novatorem-git-master-musfique113.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </div>
 
 - 🔭 I’m currently working on [WebShowWatchlist](https://github.com/musfique113/WebShowWatchlist)
