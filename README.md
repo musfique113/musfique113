@@ -59,7 +59,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-62-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-58-blue)
 
 **🐱 My GitHub Data** 
 
@@ -138,7 +138,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/musfique113/musfique113/main/assets/bar_graph.png)
 
 
- Last Updated on 27/03/2023 00:41:12 UTC
+ Last Updated on 27/03/2023 06:11:55 UTC
 <!--END_SECTION:waka-->
 </details>	
 
