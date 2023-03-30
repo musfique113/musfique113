@@ -53,8 +53,12 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=musfique113)  
 </details>	
 
+<details>
+<summary>Recent Activity</summary>
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
+</details>
 
 
 <details>	
