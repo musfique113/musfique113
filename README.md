@@ -150,4 +150,4 @@ C++                      1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 </details>	
 
-![](./profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
