@@ -60,8 +60,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-260-blue)
-
+<!-- ![Profile Views](http://img.shields.io/badge/Profile%20Views-260-blue) -->
 **🐱 My GitHub Data** 
 
 > 📦 150.6 kB Used in GitHub's Storage 
@@ -133,13 +132,18 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
+<!-- **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/musfique113/musfique113/main/assets/bar_graph.png)
+![Lines of Code chart](https://raw.githubusercontent.com/musfique113/musfique113/main/assets/bar_graph.png) -->
 
 
  Last Updated on 12/03/2023 18:09:41 UTC
 <!--END_SECTION:waka-->
 </details>	
 
+<<<<<<< HEAD
 ![](./profile-3d-contrib/profile-green-animate.svg)
+=======
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+>>>>>>> 1cdecb2db218b8fc4ee1cf7383513427d006f5bf
