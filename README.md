@@ -41,6 +41,7 @@
     <a href="https://github.com/search?q=user%3AshmVirus+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
   </details>
 <details>	
+
 <summary>Github Status</summary>  
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=musfique113&show_icons=true&locale=en&layout=compact" alt="musfique113" /></p>
@@ -51,7 +52,11 @@
   
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=musfique113)  
 </details>	
+<details>
+<summary>Recent Activity 🔗</summary>
+<!--START_SECTION:activity-->
 
+</details>
 
 <details>	
 <summary>Wakatime Stats</summary>  
