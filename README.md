@@ -147,9 +147,4 @@ C++                      1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 </details>	
 
-<<<<<<< HEAD
 ![](./profile-3d-contrib/profile-green-animate.svg)
-=======
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
->>>>>>> 1cdecb2db218b8fc4ee1cf7383513427d006f5bf
