@@ -67,17 +67,17 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2030%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-96-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-98-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 155.3 kB Used in GitHub's Storage 
  > 
-> 🏆 245 Contributions in the Year 2023
+> 🏆 244 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 15 Public Repositories 
+> 📜 14 Public Repositories 
  > 
 > 🔑 11 Private Repositories 
  > 
@@ -147,7 +147,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/musfique113/musfique113/main/assets/bar_graph.png)
 
 
- Last Updated on 18/04/2023 06:11:25 UTC
+ Last Updated on 18/04/2023 12:15:21 UTC
 <!--END_SECTION:waka-->
 </details>	
 
