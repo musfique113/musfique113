@@ -43,9 +43,7 @@
 
 <details>	
 <summary>Programming and Other Languages</summary> 
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,html,c,java,mysql,sqlite,linux,bash,python,dart,flutter,androidstudio,firebase,git,github,figma,latex,md,&theme=light&perline=11" />
-</a>
+<a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=vscode,html,c,java,mysql,sqlite,linux,bash,python,dart,flutter,androidstudio,firebase,git,github,figma,latex,md,&theme=light&perline=9" height="100" width="" /></a>
 </details>
 
 
