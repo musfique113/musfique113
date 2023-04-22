@@ -76,7 +76,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2028%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-108-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-105-blue)
 
 **🐱 My GitHub Data** 
 
@@ -155,7 +155,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/musfique113/musfique113/main/assets/bar_graph.png)
 
 
- Last Updated on 22/04/2023 00:40:21 UTC
+ Last Updated on 22/04/2023 06:10:25 UTC
 <!--END_SECTION:waka-->
 </details>	
 
