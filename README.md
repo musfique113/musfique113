@@ -74,9 +74,9 @@
 <summary>Wakatime Stats</summary>  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-57-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue)
 
 **🐱 My GitHub Data** 
 
@@ -156,7 +156,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/musfique113/musfique113/main/assets/bar_graph.png)
 
 
- Last Updated on 25/04/2023 12:15:24 UTC
+ Last Updated on 25/04/2023 18:10:16 UTC
 <!--END_SECTION:waka-->
 </details>	
 
