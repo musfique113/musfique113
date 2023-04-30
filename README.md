@@ -42,7 +42,7 @@
   </details> -->
 
 <details>	
-<summary>Programming and Other Languages</summary> 
+<summary>Programming Languages and Tools</summary> 
 <a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=vscode,html,c,java,mysql,sqlite,linux,bash,python,dart,flutter,androidstudio,firebase,git,github,figma,latex,md,&theme=light&perline=9" height="100" width="" /></a>
 </details>
 
