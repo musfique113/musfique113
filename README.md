@@ -27,7 +27,7 @@
 </details>  -->
 
 <!-- <details>
-    <summary>Programming and Other Languages</summary>
+    <summary>Programming Languages and Tools</summary>
     <a href="https://github.com/search?q=user%3Amusfique113+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Amusfique113+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/dart.svg?logo=cpp2&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Amusfique113+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
