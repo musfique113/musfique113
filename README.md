@@ -80,7 +80,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 157.2 kB Used in GitHub's Storage 
+> 📦 157.3 kB Used in GitHub's Storage 
  > 
 > 🏆 290 Contributions in the Year 2023
  > 
@@ -156,7 +156,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/musfique113/musfique113/main/assets/bar_graph.png)
 
 
- Last Updated on 30/04/2023 00:44:15 UTC
+ Last Updated on 30/04/2023 06:10:22 UTC
 <!--END_SECTION:waka-->
 </details>	
 
