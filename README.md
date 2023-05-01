@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musfique113&label=Profile%20views&color=0e75b6&style=flat" alt="musfique113" /> </p>
 
-- 🔭 I’m currently working on [FlutterShopApp](https://github.com/musfique113/FlutterShopApp)
+- 🔭 I’m currently working on [WeatherMate](https://github.com/musfique113/WeatherMate)
 
 - 🤝 I’m looking for help with **data analyst and android devlopment**
 
@@ -13,13 +13,15 @@
 - 📫 How to reach me **musfique113@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
+<!--<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hellomusfique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hellomusfique" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/musfique113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="musfique113" height="30" width="40" /></a>
 <a href="https://fb.com/verygoodmusfique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="verygoodmusfique" height="30" width="40" /></a>
 <a href="https://instagram.com/verygoodmusfique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="verygoodmusfique" height="30" width="40" /></a>
 </p>
+-->
+
 
 <!-- <details>	
 <summary>Languages and Tools:</summary>
@@ -41,11 +43,22 @@
     <a href="https://github.com/search?q=user%3Amusfique113+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
   </details> -->
 
+<!--
 <details>	
 <summary>Programming Languages and Tools</summary> 
 <a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=vscode,html,c,java,mysql,sqlite,linux,bash,python,dart,flutter,androidstudio,firebase,git,github,figma,latex,md,&theme=light&perline=9" height="100" width="" /></a>
 </details>
+-->
 
+| Property             | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Language**       | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![SQLite Badge](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![Dart Badge](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)  ![LaTeX Badge](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white) ![Markdown Badge](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white) |
+|**Domain Knowledge**      | [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) [![Mobile App Development Badge](https://img.shields.io/badge/-Mobile%20App%20Development-blue?style=flat&logoColor=white&logo=swift)](#) [![Computer Networking Badge](https://img.shields.io/badge/-Computer%20Networking-0066CC?style=flat&logoColor=white&logo=cisco)](#) [![Data Structures and Algorithms Badge](https://img.shields.io/badge/-Data%20Structures%20and%20Algorithms-424242?style=flat&logoColor=white)](#) [![OOP Badge](https://img.shields.io/badge/-OOP-DC143C?style=flat&logoColor=white)](#) ![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white) ![Data Analytics](https://img.shields.io/badge/-Data%20Analytics-2E9AFE?style=flat&logoColor=white) [![Web Development](https://img.shields.io/badge/-Web%20Development-blueviolet?style=flat&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/Web_development) [![Database Management System](https://img.shields.io/badge/-Database%20Management%20System-blue?style=flat&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/Database_management_system) |
+| **IDEs**      | [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white)](https://developer.android.com/studio) [![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/) [![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/) [![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white)](https://netbeans.apache.org/) [![JupyterLab](https://img.shields.io/badge/-JupyterLab-orange?logo=jupyter)](https://jupyterlab.readthedocs.io/en/stable/) [![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-orange?logo=jupyter)](https://jupyter.org/) |
+| **CLIs**      | [![Bash](https://img.shields.io/badge/-Bash-black?logo=gnu-bash)](https://www.gnu.org/software/bash/) [![PowerShell](https://img.shields.io/badge/-PowerShell-blue?logo=powershell)](https://docs.microsoft.com/en-us/powershell/) [![Command Prompt](https://img.shields.io/badge/-Command%20Prompt-blue?logo=windows)](https://en.wikipedia.org/wiki/Cmd.exe)|
+|**OperatingSystem**      | [![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows) [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/) |
+| **Frameworks & Tools**      | [![Flutter Badge](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter)](https://flutter.dev/) [![RESTful APIs Badge](https://img.shields.io/badge/-RESTful%20APIs-green?style=flat&logo=rest)](https://restfulapi.net/) [![Git](https://img.shields.io/badge/-Git-orange?logo=git)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/) [![Firebase](https://img.shields.io/badge/-Firebase-yellow?logo=firebase)](https://firebase.google.com/) |
+| **Socials**      | [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/hellomusfique) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/musfique113) [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white)](https://fb.com/verygoodmusfique) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/verygoodmusfique) |
 
 <details>	
 <summary>Github Status</summary>  
@@ -63,7 +76,7 @@
 
 
 <details>
-<summary>Recent Activity</summary>
+<summary>Recent Activities</summary>
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
