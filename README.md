@@ -58,19 +58,22 @@
   
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=musfique113) -->
   
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=musfique113)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=musfique113)
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 </details>		
 
 
 
 
-
+<!-- 
 <details>
 <summary>Recent Activities</summary>
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
-</details>
+<!-- </details> 
+-->
 
 
 <details>	
@@ -162,5 +165,3 @@ CSS                      2 repos             ██░░░░░░░░░�
  Last Updated on 02/05/2023 06:11:16 UTC
 <!--END_SECTION:waka-->
 </details>	
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
