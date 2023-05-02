@@ -80,7 +80,7 @@
 <summary>Wakatime Stats</summary>  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-49-blue)
 
@@ -162,6 +162,6 @@ CSS                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/musfique113/musfique113/main/assets/bar_graph.png)
 
 
- Last Updated on 02/05/2023 12:15:33 UTC
+ Last Updated on 02/05/2023 18:10:19 UTC
 <!--END_SECTION:waka-->
 </details>	
