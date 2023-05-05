@@ -80,13 +80,13 @@
 <summary>Wakatime Stats</summary>  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 158.0 kB Used in GitHub's Storage 
+> 📦 158.1 kB Used in GitHub's Storage 
  > 
 > 🏆 324 Contributions in the Year 2023
  > 
@@ -162,6 +162,6 @@ CSS                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/musfique113/musfique113/main/assets/bar_graph.png)
 
 
- Last Updated on 05/05/2023 00:38:19 UTC
+ Last Updated on 05/05/2023 06:11:01 UTC
 <!--END_SECTION:waka-->
 </details>	
