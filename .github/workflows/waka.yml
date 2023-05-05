@@ -16,6 +16,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          COMMIT_MESSAGE: "Update README.md by 🤖"
           SHOW_UPDATED_DATE: "True"
           UPDATED_DATE_FORMAT: "%Y-%m-%d @%H:%M:%S"
           SHOW_COMMIT: True
