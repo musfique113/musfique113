@@ -2,7 +2,8 @@
 <h4 align="center">~that's Musfique, a CSE student</h4>
 <h5 align="center">Always open for new and interesting projects. Let's connect and make something awesome together.</h5>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=musfique113&label=Profile%20views&color=0e75b6&style=flat" alt="musfique113" /> </p> [![wakatime](https://wakatime.com/badge/user/18368562-fe00-4dd1-a78f-9403210fea47.svg)](https://wakatime.com/@18368562-fe00-4dd1-a78f-9403210fea47)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=musfique113&label=Profile%20views&color=0e75b6&style=flat" alt="musfique113" /> </p>
+
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,7 +13,7 @@
 <a href="https://instagram.com/verygoodmusfique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="verygoodmusfique" height="30" width="40" /></a>
 </p>
 -->
-
+ [![wakatime](https://wakatime.com/badge/user/18368562-fe00-4dd1-a78f-9403210fea47.svg)](https://wakatime.com/@18368562-fe00-4dd1-a78f-9403210fea47)
 
 <!-- <details>	
 <summary>Languages and Tools:</summary>
