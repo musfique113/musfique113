@@ -13,7 +13,7 @@
 <a href="https://instagram.com/verygoodmusfique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="verygoodmusfique" height="30" width="40" /></a>
 </p>
 -->
- [![wakatime](https://wakatime.com/badge/user/18368562-fe00-4dd1-a78f-9403210fea47.svg)](https://wakatime.com/@18368562-fe00-4dd1-a78f-9403210fea47)
+ <!--[![wakatime](https://wakatime.com/badge/user/18368562-fe00-4dd1-a78f-9403210fea47.svg)](https://wakatime.com/@18368562-fe00-4dd1-a78f-9403210fea47) -->
 
 <!-- <details>	
 <summary>Languages and Tools:</summary>
