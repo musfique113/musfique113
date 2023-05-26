@@ -70,8 +70,6 @@
 
 <details>
 <summary>Recent Activities</summary>
-# :zap: Recent Activity
-
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#207](https://github.com/jonataslaw/VideoCompress/issues/207) in [jonataslaw/VideoCompress](https://github.com/jonataslaw/VideoCompress)
 2. 🎉 Merged PR [#1](https://github.com/musfique113/Chat_Application/pull/1) in [musfique113/Chat_Application](https://github.com/musfique113/Chat_Application)
