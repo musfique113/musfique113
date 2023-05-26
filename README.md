@@ -72,7 +72,7 @@
 
 
 <details>
-<summary> :zap: Recent Activity</summary>
+<summary> :zap: Recent Activities</summary>
  
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#90](https://github.com/jamesgeorge007/github-activity-readme/issues/90) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
