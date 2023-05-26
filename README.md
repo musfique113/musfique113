@@ -73,11 +73,11 @@
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#90](https://github.com/CartimDraluc/Cartimpedia/pull/90) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
-2. 💪 Opened PR [#90](https://github.com/CartimDraluc/Cartimpedia/pull/90) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
-3. 🗣 Commented on [#89](https://github.com/CartimDraluc/Cartimpedia/issues/89) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
-4. ❗️ Closed issue [#89](https://github.com/CartimDraluc/Cartimpedia/issues/89) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
-5. ❗️ Opened issue [#89](https://github.com/CartimDraluc/Cartimpedia/issues/89) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
+1. 🗣 Commented on [#207](https://github.com/jonataslaw/VideoCompress/issues/207) in [jonataslaw/VideoCompress](https://github.com/jonataslaw/VideoCompress)
+2. 🎉 Merged PR [#1](https://github.com/musfique113/Chat_Application/pull/1) in [musfique113/Chat_Application](https://github.com/musfique113/Chat_Application)
+3. 🎉 Merged PR [#1](https://github.com/musfique113/Calculator_AndroidStudio/pull/1) in [musfique113/Calculator_AndroidStudio](https://github.com/musfique113/Calculator_AndroidStudio)
+4. 💪 Opened PR [#1](https://github.com/shmVirus/MyFeed/pull/1) in [shmVirus/MyFeed](https://github.com/shmVirus/MyFeed)
+5. 🗣 Commented on [#113](https://github.com/tortuvshin/open-source-flutter-apps/issues/113) in [tortuvshin/open-source-flutter-apps](https://github.com/tortuvshin/open-source-flutter-apps)
 <!--END_SECTION:activity-->
 </details> 
 
