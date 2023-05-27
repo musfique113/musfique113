@@ -72,7 +72,7 @@
 
 
 <details>
-<summary> :zap: Recent Activities</summary>
+<summary> Recent Activities</summary>
  
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#1](https://github.com/shmVirus/MyFeed/pull/1) in [shmVirus/MyFeed](https://github.com/shmVirus/MyFeed)
