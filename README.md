@@ -80,7 +80,7 @@
 3. 🗣 Commented on [#207](https://github.com/jonataslaw/VideoCompress/issues/207) in [jonataslaw/VideoCompress](https://github.com/jonataslaw/VideoCompress)
 4. 🎉 Merged PR [#1](https://github.com/musfique113/Chat_Application/pull/1) in [musfique113/Chat_Application](https://github.com/musfique113/Chat_Application)
 5. 🎉 Merged PR [#1](https://github.com/musfique113/Calculator_AndroidStudio/pull/1) in [musfique113/Calculator_AndroidStudio](https://github.com/musfique113/Calculator_AndroidStudio)
-5. ❗️ Opened issue [#89](https://github.com/CartimDraluc/Cartimpedia/issues/89) in [CartimDraluc/Cartimpedia](https://github.com/CartimDraluc/Cartimpedia)
+6. 💪 Opened PR [#1](https://github.com/shmVirus/MyFeed/pull/1) in [shmVirus/MyFeed](https://github.com/shmVirus/MyFeed)
  
 <!--END_SECTION:activity-->
 </details> 
