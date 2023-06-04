@@ -75,12 +75,12 @@
 <summary> Recent Activities</summary>
  
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/RafatMeraz/ostad-practice-projects/pull/2) in [RafatMeraz/ostad-practice-projects](https://github.com/RafatMeraz/ostad-practice-projects)
-2. 🗣 Commented on [#1](https://github.com/RafatMeraz/ostad-practice-projects/issues/1) in [RafatMeraz/ostad-practice-projects](https://github.com/RafatMeraz/ostad-practice-projects)
-3. 💪 Opened PR [#1](https://github.com/RafatMeraz/ostad-practice-projects/pull/1) in [RafatMeraz/ostad-practice-projects](https://github.com/RafatMeraz/ostad-practice-projects)
-4. ❌ Closed PR [#1](https://github.com/shmVirus/MyFeed/pull/1) in [shmVirus/MyFeed](https://github.com/shmVirus/MyFeed)
-5. 🗣 Commented on [#90](https://github.com/jamesgeorge007/github-activity-readme/issues/90) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-6. 🗣 Commented on [#207](https://github.com/jonataslaw/VideoCompress/issues/207) in [jonataslaw/VideoCompress](https://github.com/jonataslaw/VideoCompress)
+1. 🗣 Commented on [#2](https://github.com/RafatMeraz/ostad-practice-projects/issues/2) in [RafatMeraz/ostad-practice-projects](https://github.com/RafatMeraz/ostad-practice-projects)
+2. 💪 Opened PR [#2](https://github.com/RafatMeraz/ostad-practice-projects/pull/2) in [RafatMeraz/ostad-practice-projects](https://github.com/RafatMeraz/ostad-practice-projects)
+3. 🗣 Commented on [#1](https://github.com/RafatMeraz/ostad-practice-projects/issues/1) in [RafatMeraz/ostad-practice-projects](https://github.com/RafatMeraz/ostad-practice-projects)
+4. 💪 Opened PR [#1](https://github.com/RafatMeraz/ostad-practice-projects/pull/1) in [RafatMeraz/ostad-practice-projects](https://github.com/RafatMeraz/ostad-practice-projects)
+5. ❌ Closed PR [#1](https://github.com/shmVirus/MyFeed/pull/1) in [shmVirus/MyFeed](https://github.com/shmVirus/MyFeed)
+6. 🗣 Commented on [#90](https://github.com/jamesgeorge007/github-activity-readme/issues/90) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 7. 🎉 Merged PR [#1](https://github.com/musfique113/Chat_Application/pull/1) in [musfique113/Chat_Application](https://github.com/musfique113/Chat_Application)
 <!--END_SECTION:activity-->
 </details> 
