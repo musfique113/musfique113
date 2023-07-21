@@ -92,7 +92,7 @@
 <summary>Wakatime Stats</summary>  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2010%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -156,6 +156,6 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/07/2023 @12:15:48 UTC
+ Last Updated on 21/07/2023 @18:11:37 UTC
 <!--END_SECTION:waka-->
 </details>	
