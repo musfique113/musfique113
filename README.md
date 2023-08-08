@@ -75,7 +75,7 @@
 <summary> Recent Activities</summary>
  
 <!--START_SECTION:activity-->
-1. 🚀 Published release [GithubDataViwer ](https://github.com/GithubDataViwer ) in [musfique113/GitHubDataViewer](https://github.com/musfique113/GitHubDataViewer)
+1. 💪 Opened PR [#6](https://github.com/RafatMeraz/ostad-practice-projects/pull/6) in [RafatMeraz/ostad-practice-projects](https://github.com/RafatMeraz/ostad-practice-projects)
 2. ❌ Closed PR [#3](https://github.com/musfique113/Flutter_Practice/pull/3) in [musfique113/Flutter_Practice](https://github.com/musfique113/Flutter_Practice)
 3. 🗣 Commented on [#2](https://github.com/RafatMeraz/ostad-practice-projects/issues/2) in [RafatMeraz/ostad-practice-projects](https://github.com/RafatMeraz/ostad-practice-projects)
 4. 💪 Opened PR [#2](https://github.com/RafatMeraz/ostad-practice-projects/pull/2) in [RafatMeraz/ostad-practice-projects](https://github.com/RafatMeraz/ostad-practice-projects)
