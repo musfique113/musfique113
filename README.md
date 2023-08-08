@@ -75,8 +75,8 @@
 <summary> Recent Activities</summary>
  
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/RafatMeraz/ostad-practice-projects/pull/6) in [RafatMeraz/ostad-practice-projects](https://github.com/RafatMeraz/ostad-practice-projects)
-2. ❌ Closed PR [#3](https://github.com/musfique113/Flutter_Practice/pull/3) in [musfique113/Flutter_Practice](https://github.com/musfique113/Flutter_Practice)
+1. 🚀 Published release [Task Tracker v1.0.0](https://github.com/musfique113/TaskTracker/releases/tag/v1.0.0) in [musfique113/TaskTracker](https://github.com/musfique113/TaskTracker)
+2. 💪 Opened PR [#6](https://github.com/RafatMeraz/ostad-practice-projects/pull/6) in [RafatMeraz/ostad-practice-projects](https://github.com/RafatMeraz/ostad-practice-projects)
 3. 🗣 Commented on [#2](https://github.com/RafatMeraz/ostad-practice-projects/issues/2) in [RafatMeraz/ostad-practice-projects](https://github.com/RafatMeraz/ostad-practice-projects)
 4. 💪 Opened PR [#2](https://github.com/RafatMeraz/ostad-practice-projects/pull/2) in [RafatMeraz/ostad-practice-projects](https://github.com/RafatMeraz/ostad-practice-projects)
 5. 🗣 Commented on [#1](https://github.com/RafatMeraz/ostad-practice-projects/issues/1) in [RafatMeraz/ostad-practice-projects](https://github.com/RafatMeraz/ostad-practice-projects)
