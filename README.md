@@ -75,10 +75,10 @@
 <summary> Recent Activities</summary>
  
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Task Tracker v1.0.0](https://github.com/musfique113/TaskTracker/releases/tag/v1.0.0) in [musfique113/TaskTracker](https://github.com/musfique113/TaskTracker)
-2. 💪 Opened PR [#6](https://github.com/RafatMeraz/ostad-practice-projects/pull/6) in [RafatMeraz/ostad-practice-projects](https://github.com/RafatMeraz/ostad-practice-projects)
-3. 🗣 Commented on [#2](https://github.com/RafatMeraz/ostad-practice-projects/issues/2) in [RafatMeraz/ostad-practice-projects](https://github.com/RafatMeraz/ostad-practice-projects)
-4. 💪 Opened PR [#2](https://github.com/RafatMeraz/ostad-practice-projects/pull/2) in [RafatMeraz/ostad-practice-projects](https://github.com/RafatMeraz/ostad-practice-projects)
+1. 🎉 Merged PR [#1](https://github.com/musfique113/TaskTracker/pull/1) in [musfique113/TaskTracker](https://github.com/musfique113/TaskTracker)
+2. 💪 Opened PR [#1](https://github.com/musfique113/TaskTracker/pull/1) in [musfique113/TaskTracker](https://github.com/musfique113/TaskTracker)
+3. 🚀 Published release [Task Tracker v1.0.0](https://github.com/musfique113/TaskTracker/releases/tag/v1.0.0) in [musfique113/TaskTracker](https://github.com/musfique113/TaskTracker)
+4. 💪 Opened PR [#6](https://github.com/RafatMeraz/ostad-practice-projects/pull/6) in [RafatMeraz/ostad-practice-projects](https://github.com/RafatMeraz/ostad-practice-projects)
 5. 🗣 Commented on [#1](https://github.com/RafatMeraz/ostad-practice-projects/issues/1) in [RafatMeraz/ostad-practice-projects](https://github.com/RafatMeraz/ostad-practice-projects)
 6. 💪 Opened PR [#1](https://github.com/RafatMeraz/ostad-practice-projects/pull/1) in [RafatMeraz/ostad-practice-projects](https://github.com/RafatMeraz/ostad-practice-projects)
 7. ❌ Closed PR [#1](https://github.com/shmVirus/MyFeed/pull/1) in [shmVirus/MyFeed](https://github.com/shmVirus/MyFeed)
