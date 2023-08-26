@@ -75,10 +75,10 @@
 <summary> Recent Activities</summary>
  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/musfique113/friends/pull/3) in [musfique113/friends](https://github.com/musfique113/friends)
-2. 💪 Opened PR [#3](https://github.com/musfique113/friends/pull/3) in [musfique113/friends](https://github.com/musfique113/friends)
-3. 🎉 Merged PR [#2](https://github.com/musfique113/friends/pull/2) in [musfique113/friends](https://github.com/musfique113/friends)
-4. 💪 Opened PR [#2](https://github.com/musfique113/friends/pull/2) in [musfique113/friends](https://github.com/musfique113/friends)
+1. 🎉 Merged PR [#3](https://github.com/musfique113/TaskTracker/pull/3) in [musfique113/TaskTracker](https://github.com/musfique113/TaskTracker)
+2. 🎉 Merged PR [#2](https://github.com/musfique113/TaskTracker/pull/2) in [musfique113/TaskTracker](https://github.com/musfique113/TaskTracker)
+3. 💪 Opened PR [#3](https://github.com/musfique113/TaskTracker/pull/3) in [musfique113/TaskTracker](https://github.com/musfique113/TaskTracker)
+4. 💪 Opened PR [#2](https://github.com/musfique113/TaskTracker/pull/2) in [musfique113/TaskTracker](https://github.com/musfique113/TaskTracker)
 5. 🚀 Published release [Friends](https://github.com/musfique113/friends/releases/tag/v1.0.0) in [musfique113/friends](https://github.com/musfique113/friends)
 6. 🎉 Merged PR [#1](https://github.com/musfique113/friends/pull/1) in [musfique113/friends](https://github.com/musfique113/friends)
 7. 💪 Opened PR [#1](https://github.com/musfique113/friends/pull/1) in [musfique113/friends](https://github.com/musfique113/friends)
