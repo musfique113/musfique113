@@ -75,13 +75,13 @@
 <summary> Recent Activities</summary>
  
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.1](https://github.com/musfique113/TaskTracker/releases/tag/v1.0.1) in [musfique113/TaskTracker](https://github.com/musfique113/TaskTracker)
-2. 🎉 Merged PR [#3](https://github.com/musfique113/TaskTracker/pull/3) in [musfique113/TaskTracker](https://github.com/musfique113/TaskTracker)
-3. 🎉 Merged PR [#2](https://github.com/musfique113/TaskTracker/pull/2) in [musfique113/TaskTracker](https://github.com/musfique113/TaskTracker)
-4. 💪 Opened PR [#3](https://github.com/musfique113/TaskTracker/pull/3) in [musfique113/TaskTracker](https://github.com/musfique113/TaskTracker)
-5. 💪 Opened PR [#2](https://github.com/musfique113/TaskTracker/pull/2) in [musfique113/TaskTracker](https://github.com/musfique113/TaskTracker)
-6. 🎉 Merged PR [#1](https://github.com/musfique113/friends/pull/1) in [musfique113/friends](https://github.com/musfique113/friends)
-7. 💪 Opened PR [#1](https://github.com/musfique113/friends/pull/1) in [musfique113/friends](https://github.com/musfique113/friends)
+1. 🎉 Merged PR [#1](https://github.com/FreelancerAbir1/E-Bazar/pull/1) in [FreelancerAbir1/E-Bazar](https://github.com/FreelancerAbir1/E-Bazar)
+2. 💪 Opened PR [#1](https://github.com/FreelancerAbir1/E-Bazar/pull/1) in [FreelancerAbir1/E-Bazar](https://github.com/FreelancerAbir1/E-Bazar)
+3. 🚀 Published release [v1.0.1](https://github.com/musfique113/TaskTracker/releases/tag/v1.0.1) in [musfique113/TaskTracker](https://github.com/musfique113/TaskTracker)
+4. 🎉 Merged PR [#3](https://github.com/musfique113/TaskTracker/pull/3) in [musfique113/TaskTracker](https://github.com/musfique113/TaskTracker)
+5. 🎉 Merged PR [#2](https://github.com/musfique113/TaskTracker/pull/2) in [musfique113/TaskTracker](https://github.com/musfique113/TaskTracker)
+6. 💪 Opened PR [#3](https://github.com/musfique113/TaskTracker/pull/3) in [musfique113/TaskTracker](https://github.com/musfique113/TaskTracker)
+7. 💪 Opened PR [#2](https://github.com/musfique113/TaskTracker/pull/2) in [musfique113/TaskTracker](https://github.com/musfique113/TaskTracker)
 <!--END_SECTION:activity-->
 </details> 
 
