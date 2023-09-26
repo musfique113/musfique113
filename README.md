@@ -75,7 +75,7 @@
 <summary> Recent Activities</summary>
  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/FreelancerAbir1/E-Bazar/pull/1) in [FreelancerAbir1/E-Bazar](https://github.com/FreelancerAbir1/E-Bazar)
+1. ❗ Opened issue [#1](https://github.com/RafatMeraz/network_caller/issues/1) in [RafatMeraz/network_caller](https://github.com/RafatMeraz/network_caller)
 2. 💪 Opened PR [#1](https://github.com/FreelancerAbir1/E-Bazar/pull/1) in [FreelancerAbir1/E-Bazar](https://github.com/FreelancerAbir1/E-Bazar)
 3. 🚀 Published release [v1.0.1](https://github.com/musfique113/TaskTracker/releases/tag/v1.0.1) in [musfique113/TaskTracker](https://github.com/musfique113/TaskTracker)
 4. 🎉 Merged PR [#3](https://github.com/musfique113/TaskTracker/pull/3) in [musfique113/TaskTracker](https://github.com/musfique113/TaskTracker)
