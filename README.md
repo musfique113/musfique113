@@ -51,6 +51,19 @@
 | **Frameworks & Tools**      | [![Flutter Badge](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter)](https://flutter.dev/) [![RESTful APIs Badge](https://img.shields.io/badge/-RESTful%20APIs-green?style=flat&logo=rest)](https://restfulapi.net/) [![Git](https://img.shields.io/badge/-Git-orange?logo=git)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/) [![Firebase](https://img.shields.io/badge/-Firebase-yellow?logo=firebase)](https://firebase.google.com/) [![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker)](https://www.docker.com/)|
 | **Socials**      | [![Twitter](https://img.shields.io/badge/-musfiquedotme-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/musfiquedotme) [![LinkedIn](https://img.shields.io/badge/-musfique113-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/musfique113) [![Facebook](https://img.shields.io/badge/-musfique.me-1877F2?style=flat&logo=Facebook&logoColor=white)](https://fb.com/musfique.me) [![Instagram](https://img.shields.io/badge/-musfique.me-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/musfique.me) [![Email](https://img.shields.io/badge/Email-musfique113%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:musfique113@gmail.com) [![Wakatime](https://img.shields.io/badge/-Wakatime-000000?logo=Wakatime&logoColor=#8c6dd7&style=flat)](https://wakatime.com/@musfique113) |
 
+
+<summary> Recent Activities</summary>
+ 
+<!--START_SECTION:activity-->
+1. ❗ Opened issue [#1](https://github.com/RafatMeraz/network_caller/issues/1) in [RafatMeraz/network_caller](https://github.com/RafatMeraz/network_caller)
+2. 💪 Opened PR [#1](https://github.com/FreelancerAbir1/E-Bazar/pull/1) in [FreelancerAbir1/E-Bazar](https://github.com/FreelancerAbir1/E-Bazar)
+3. 🚀 Published release [v1.0.1](https://github.com/musfique113/TaskTracker/releases/tag/v1.0.1) in [musfique113/TaskTracker](https://github.com/musfique113/TaskTracker)
+4. 🎉 Merged PR [#3](https://github.com/musfique113/TaskTracker/pull/3) in [musfique113/TaskTracker](https://github.com/musfique113/TaskTracker)
+5. 🎉 Merged PR [#2](https://github.com/musfique113/TaskTracker/pull/2) in [musfique113/TaskTracker](https://github.com/musfique113/TaskTracker)
+6. 💪 Opened PR [#3](https://github.com/musfique113/TaskTracker/pull/3) in [musfique113/TaskTracker](https://github.com/musfique113/TaskTracker)
+7. 💪 Opened PR [#2](https://github.com/musfique113/TaskTracker/pull/2) in [musfique113/TaskTracker](https://github.com/musfique113/TaskTracker)
+<!--END_SECTION:activity-->
+
 <details>	
 <summary>Github Status</summary>  
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=musfique113&show_icons=true&locale=en&layout=compact" alt="musfique113" /></p> -->
@@ -63,28 +76,6 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 </details>		
-
-
-
-
-
-
-
-
-<details>
-<summary> Recent Activities</summary>
- 
-<!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/RafatMeraz/network_caller/issues/1) in [RafatMeraz/network_caller](https://github.com/RafatMeraz/network_caller)
-2. 💪 Opened PR [#1](https://github.com/FreelancerAbir1/E-Bazar/pull/1) in [FreelancerAbir1/E-Bazar](https://github.com/FreelancerAbir1/E-Bazar)
-3. 🚀 Published release [v1.0.1](https://github.com/musfique113/TaskTracker/releases/tag/v1.0.1) in [musfique113/TaskTracker](https://github.com/musfique113/TaskTracker)
-4. 🎉 Merged PR [#3](https://github.com/musfique113/TaskTracker/pull/3) in [musfique113/TaskTracker](https://github.com/musfique113/TaskTracker)
-5. 🎉 Merged PR [#2](https://github.com/musfique113/TaskTracker/pull/2) in [musfique113/TaskTracker](https://github.com/musfique113/TaskTracker)
-6. 💪 Opened PR [#3](https://github.com/musfique113/TaskTracker/pull/3) in [musfique113/TaskTracker](https://github.com/musfique113/TaskTracker)
-7. 💪 Opened PR [#2](https://github.com/musfique113/TaskTracker/pull/2) in [musfique113/TaskTracker](https://github.com/musfique113/TaskTracker)
-<!--END_SECTION:activity-->
-</details> 
-
 
 
 
