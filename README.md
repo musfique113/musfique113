@@ -72,7 +72,9 @@
   
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=musfique113) -->
   
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=musfique113)
+<!--![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=musfique113) -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=musfique113)](https://git.io/streak-stats)
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 </details>		
