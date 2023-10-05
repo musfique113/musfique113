@@ -55,13 +55,13 @@
 <summary> Recent Activities</summary>
  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/musfique113/CraftyBay/pull/2) in [musfique113/CraftyBay](https://github.com/musfique113/CraftyBay)
-2. 💪 Opened PR [#2](https://github.com/musfique113/CraftyBay/pull/2) in [musfique113/CraftyBay](https://github.com/musfique113/CraftyBay)
-3. 🎉 Merged PR [#1](https://github.com/musfique113/CraftyBay/pull/1) in [musfique113/CraftyBay](https://github.com/musfique113/CraftyBay)
-4. 💪 Opened PR [#1](https://github.com/musfique113/CraftyBay/pull/1) in [musfique113/CraftyBay](https://github.com/musfique113/CraftyBay)
-5. ❗ Opened issue [#1](https://github.com/RafatMeraz/network_caller/issues/1) in [RafatMeraz/network_caller](https://github.com/RafatMeraz/network_caller)
-6. 💪 Opened PR [#3](https://github.com/musfique113/TaskTracker/pull/3) in [musfique113/TaskTracker](https://github.com/musfique113/TaskTracker)
-7. 💪 Opened PR [#2](https://github.com/musfique113/TaskTracker/pull/2) in [musfique113/TaskTracker](https://github.com/musfique113/TaskTracker)
+1. 🎉 Merged PR [#3](https://github.com/musfique113/CraftyBay/pull/3) in [musfique113/CraftyBay](https://github.com/musfique113/CraftyBay)
+2. 💪 Opened PR [#3](https://github.com/musfique113/CraftyBay/pull/3) in [musfique113/CraftyBay](https://github.com/musfique113/CraftyBay)
+3. 🎉 Merged PR [#2](https://github.com/musfique113/CraftyBay/pull/2) in [musfique113/CraftyBay](https://github.com/musfique113/CraftyBay)
+4. 💪 Opened PR [#2](https://github.com/musfique113/CraftyBay/pull/2) in [musfique113/CraftyBay](https://github.com/musfique113/CraftyBay)
+5. 🎉 Merged PR [#1](https://github.com/musfique113/CraftyBay/pull/1) in [musfique113/CraftyBay](https://github.com/musfique113/CraftyBay)
+6. 💪 Opened PR [#1](https://github.com/musfique113/CraftyBay/pull/1) in [musfique113/CraftyBay](https://github.com/musfique113/CraftyBay)
+7. ❗ Opened issue [#1](https://github.com/RafatMeraz/network_caller/issues/1) in [RafatMeraz/network_caller](https://github.com/RafatMeraz/network_caller)
 <!--END_SECTION:activity-->
 
 <details>	
