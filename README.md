@@ -55,10 +55,10 @@
 <summary> Recent Activities</summary>
  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/musfique113/demo/pull/1) in [musfique113/demo](https://github.com/musfique113/demo)
-2. 💪 Opened PR [#1](https://github.com/musfique113/demo/pull/1) in [musfique113/demo](https://github.com/musfique113/demo)
-3. 🎉 Merged PR [#4](https://github.com/musfique113/CraftyBay/pull/4) in [musfique113/CraftyBay](https://github.com/musfique113/CraftyBay)
-4. 💪 Opened PR [#4](https://github.com/musfique113/CraftyBay/pull/4) in [musfique113/CraftyBay](https://github.com/musfique113/CraftyBay)
+1. 🎉 Merged PR [#1](https://github.com/musfique113/al_hadith_task/pull/1) in [musfique113/al_hadith_task](https://github.com/musfique113/al_hadith_task)
+2. 💪 Opened PR [#1](https://github.com/musfique113/al_hadith_task/pull/1) in [musfique113/al_hadith_task](https://github.com/musfique113/al_hadith_task)
+3. 🎉 Merged PR [#1](https://github.com/musfique113/demo/pull/1) in [musfique113/demo](https://github.com/musfique113/demo)
+4. 💪 Opened PR [#1](https://github.com/musfique113/demo/pull/1) in [musfique113/demo](https://github.com/musfique113/demo)
 5. 🎉 Merged PR [#3](https://github.com/musfique113/CraftyBay/pull/3) in [musfique113/CraftyBay](https://github.com/musfique113/CraftyBay)
 6. 💪 Opened PR [#3](https://github.com/musfique113/CraftyBay/pull/3) in [musfique113/CraftyBay](https://github.com/musfique113/CraftyBay)
 7. 🎉 Merged PR [#2](https://github.com/musfique113/CraftyBay/pull/2) in [musfique113/CraftyBay](https://github.com/musfique113/CraftyBay)
