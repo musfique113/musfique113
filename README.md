@@ -55,13 +55,13 @@
 <summary> Recent Activities</summary>
  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/musfique113/al_hadith_task/pull/8) in [musfique113/al_hadith_task](https://github.com/musfique113/al_hadith_task)
-2. 💪 Opened PR [#8](https://github.com/musfique113/al_hadith_task/pull/8) in [musfique113/al_hadith_task](https://github.com/musfique113/al_hadith_task)
-3. 🎉 Merged PR [#7](https://github.com/musfique113/al_hadith_task/pull/7) in [musfique113/al_hadith_task](https://github.com/musfique113/al_hadith_task)
-4. 💪 Opened PR [#7](https://github.com/musfique113/al_hadith_task/pull/7) in [musfique113/al_hadith_task](https://github.com/musfique113/al_hadith_task)
-5. 🎉 Merged PR [#6](https://github.com/musfique113/al_hadith_task/pull/6) in [musfique113/al_hadith_task](https://github.com/musfique113/al_hadith_task)
-6. 💪 Opened PR [#6](https://github.com/musfique113/al_hadith_task/pull/6) in [musfique113/al_hadith_task](https://github.com/musfique113/al_hadith_task)
-7. 🎉 Merged PR [#5](https://github.com/musfique113/al_hadith_task/pull/5) in [musfique113/al_hadith_task](https://github.com/musfique113/al_hadith_task)
+1. 🚀 Published release [Al Hadith Demo](https://github.com/musfique113/al_hadith_task/releases/tag/v1.0.0) in [musfique113/al_hadith_task](https://github.com/musfique113/al_hadith_task)
+2. 🎉 Merged PR [#9](https://github.com/musfique113/al_hadith_task/pull/9) in [musfique113/al_hadith_task](https://github.com/musfique113/al_hadith_task)
+3. 💪 Opened PR [#9](https://github.com/musfique113/al_hadith_task/pull/9) in [musfique113/al_hadith_task](https://github.com/musfique113/al_hadith_task)
+4. 🎉 Merged PR [#8](https://github.com/musfique113/al_hadith_task/pull/8) in [musfique113/al_hadith_task](https://github.com/musfique113/al_hadith_task)
+5. 💪 Opened PR [#8](https://github.com/musfique113/al_hadith_task/pull/8) in [musfique113/al_hadith_task](https://github.com/musfique113/al_hadith_task)
+6. 🎉 Merged PR [#7](https://github.com/musfique113/al_hadith_task/pull/7) in [musfique113/al_hadith_task](https://github.com/musfique113/al_hadith_task)
+7. 💪 Opened PR [#7](https://github.com/musfique113/al_hadith_task/pull/7) in [musfique113/al_hadith_task](https://github.com/musfique113/al_hadith_task)
 <!--END_SECTION:activity-->
 
 <details>	
