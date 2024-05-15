@@ -2,8 +2,8 @@ name: Waka Readmeby Anmol (main)
 
 on:
   schedule:
-    # Runs every 12 hours
-    - cron: '0 */12 * * *'
+    # Runs every 48 hours
+    - cron: '0 */48 * * *'
     
   workflow_dispatch:
 jobs:
