@@ -1,18 +1,10 @@
+<!--
 <h1 align="center">Coding, debugging, and delivering greatness.</h1> 
 <h4 align="center">~that's Musfique, a CSE student</h4>
 <h5 align="center">Always open for new and interesting projects. Let's connect and make something awesome together.</h5>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=musfique113&label=Profile%20views&color=0e75b6&style=flat" alt="musfique113" /> </p> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=musfique113&label=Profile%20views&color=0e75b6&style=flat" alt="musfique113" /> </p>
 
-
-<!--<h3 align="left">Connect with travailing pg to dhk e  Mubarak  // busy // busytoday // busytoday</h3>
-<p align="left">
-<a href="https://twitter.com/musfiquedotme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="musfiquedotme" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/musfique113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="musfique113" height="30" width="40" /></a>
-<a href="https://fb.com/musfique.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="musfique.me" height="30" width="40" /></a>
-<a href="https://instagram.com/musfique.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="musfique.me" height="30" width="40" /></a>
-</p>
--->
  <!--[![wakatime](https://wakatime.com/badge/user/18368562-fe00-4dd1-a78f-9403210fea47.svg)](https://wakatime.com/@18368562-fe00-4dd1-a78f-9403210fea47) -->
 
 <!-- <details>	
@@ -43,8 +35,8 @@
 -->
 | Property             | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Language**       | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![SQLite Badge](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite&logoColor=white) ![Dart Badge](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)  ![LaTeX Badge](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white) ![Markdown Badge](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white) |
-|**Domain Knowledge**      | [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science%20&%20Engineering-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) [![Mobile App Development Badge](https://img.shields.io/badge/-Mobile%20App%20Development-blue?style=flat&logoColor=white&logo=swift)](#) [![Computer Networking Badge](https://img.shields.io/badge/-Computer%20Networking-0066CC?style=flat&logoColor=white&logo=cisco)](#) [![Data Structures and Algorithms Badge](https://img.shields.io/badge/-Data%20Structures%20and%20Algorithms-424242?style=flat&logoColor=white)](#) [![OOP Badge](https://img.shields.io/badge/-OOP-DC143C?style=flat&logoColor=white)](#) ![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white) ![Data Analytics](https://img.shields.io/badge/-Data%20Analytics-2E9AFE?style=flat&logoColor=white) [![Web Development](https://img.shields.io/badge/-Web%20Development-blueviolet?style=flat&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/Web_development) [![Database Management System](https://img.shields.io/badge/-Database%20Management%20System-blue?style=flat&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/Database_management_system) |
+| **Language**       | ![Dart Badge](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)|
+|**Domain Knowledge**      | [![Mobile App Development Badge](https://img.shields.io/badge/-Mobile%20App%20Development-blue?style=flat&logoColor=white&logo=swift)](#) |
 | **IDEs**      | [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white)](https://developer.android.com/studio) [![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/) [![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/) [![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white)](https://netbeans.apache.org/) [![JupyterLab](https://img.shields.io/badge/-JupyterLab-gray?logo=jupyter)](https://jupyterlab.readthedocs.io/en/stable/) [![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-gray?logo=jupyter)](https://jupyter.org/) |
 | **CLIs**      | [![Bash](https://img.shields.io/badge/-Bash-black?logo=gnu-bash)](https://www.gnu.org/software/bash/) [![PowerShell](https://img.shields.io/badge/-PowerShell-blue?logo=powershell)](https://docs.microsoft.com/en-us/powershell/) [![Command Prompt](https://img.shields.io/badge/-Command%20Prompt-blue?logo=windows)](https://en.wikipedia.org/wiki/Cmd.exe)|
 |**OperatingSystem**      | [![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows) [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/) |
@@ -63,23 +55,6 @@
 6. 🎉 Merged PR [#7](https://github.com/musfique113/al_hadith_task/pull/7) in [musfique113/al_hadith_task](https://github.com/musfique113/al_hadith_task)
 7. 💪 Opened PR [#7](https://github.com/musfique113/al_hadith_task/pull/7) in [musfique113/al_hadith_task](https://github.com/musfique113/al_hadith_task)
 <!--END_SECTION:activity-->
-
-<details>	
-<summary>Github Status</summary>  
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=musfique113&show_icons=true&locale=en&layout=compact" alt="musfique113" /></p> -->
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=musfique113&show_icons=true&count_private=true)  
-  
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=musfique113) -->
-  
-<!--![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=musfique113) -->
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=musfique113)](https://git.io/streak-stats)
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-</details>		
-
-
 
 <details>	
 <summary>Wakatime Stats</summary>  
