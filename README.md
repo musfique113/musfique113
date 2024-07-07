@@ -47,12 +47,12 @@
 <summary> Recent Activities</summary>
  
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Clean Architecture Mason with BLOC pattern](https://github.com/musfique113/mason_rpg/releases/tag/v0.0.2%2B2) in [musfique113/mason_rpg](https://github.com/musfique113/mason_rpg)
-2. 🎉 Merged PR [#1](https://github.com/musfique113/mason_rpg/pull/1) in [musfique113/mason_rpg](https://github.com/musfique113/mason_rpg)
-3. 💪 Opened PR [#1](https://github.com/musfique113/mason_rpg/pull/1) in [musfique113/mason_rpg](https://github.com/musfique113/mason_rpg)
-4. 🚀 Published release [Mason RPG](https://github.com/musfique113/mason_rpg/releases/tag/v0.0.1%2B1) in [musfique113/mason_rpg](https://github.com/musfique113/mason_rpg)
-5. 🎉 Merged PR [#8](https://github.com/musfique113/al_hadith_task/pull/8) in [musfique113/al_hadith_task](https://github.com/musfique113/al_hadith_task)
-6. 🎉 Merged PR [#7](https://github.com/musfique113/al_hadith_task/pull/7) in [musfique113/al_hadith_task](https://github.com/musfique113/al_hadith_task)
+1. ❌ Reopened PR [#1](https://github.com/musfique113/flutter_simple_typewriter/pull/1) in [musfique113/flutter_simple_typewriter](https://github.com/musfique113/flutter_simple_typewriter)
+2. ❌ Closed PR [#1](https://github.com/musfique113/flutter_simple_typewriter/pull/1) in [musfique113/flutter_simple_typewriter](https://github.com/musfique113/flutter_simple_typewriter)
+3. 🚀 Published release [Clean Architecture Mason with BLOC pattern](https://github.com/musfique113/mason_rpg/releases/tag/v0.0.2%2B2) in [musfique113/mason_rpg](https://github.com/musfique113/mason_rpg)
+4. 🎉 Merged PR [#1](https://github.com/musfique113/mason_rpg/pull/1) in [musfique113/mason_rpg](https://github.com/musfique113/mason_rpg)
+5. 💪 Opened PR [#1](https://github.com/musfique113/mason_rpg/pull/1) in [musfique113/mason_rpg](https://github.com/musfique113/mason_rpg)
+6. 🚀 Published release [Mason RPG](https://github.com/musfique113/mason_rpg/releases/tag/v0.0.1%2B1) in [musfique113/mason_rpg](https://github.com/musfique113/mason_rpg)
 7. 💪 Opened PR [#7](https://github.com/musfique113/al_hadith_task/pull/7) in [musfique113/al_hadith_task](https://github.com/musfique113/al_hadith_task)
 <!--END_SECTION:activity-->
 
