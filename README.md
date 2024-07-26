@@ -89,18 +89,16 @@ Sunday                   1046 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Dart                     1 hr 31 mins        █████████████████████████   99.16 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           1 hr 32 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-amjanata_seller          1 hr 32 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 32 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -116,6 +114,6 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2024 @01:02:47 UTC
+ Last Updated on 26/07/2024 @01:02:13 UTC
 <!--END_SECTION:waka-->
 </details>	
