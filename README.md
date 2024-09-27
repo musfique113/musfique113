@@ -47,13 +47,13 @@
 <summary> Recent Activities</summary>
  
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.1](https://github.com/musfique113/flutter_simple_typewriter/releases/tag/v1.0.1) in [musfique113/flutter_simple_typewriter](https://github.com/musfique113/flutter_simple_typewriter)
-2. 🎉 Merged PR [#5](https://github.com/musfique113/flutter_simple_typewriter/pull/5) in [musfique113/flutter_simple_typewriter](https://github.com/musfique113/flutter_simple_typewriter)
-3. 💪 Opened PR [#5](https://github.com/musfique113/flutter_simple_typewriter/pull/5) in [musfique113/flutter_simple_typewriter](https://github.com/musfique113/flutter_simple_typewriter)
-4. 🎉 Merged PR [#4](https://github.com/musfique113/flutter_simple_typewriter/pull/4) in [musfique113/flutter_simple_typewriter](https://github.com/musfique113/flutter_simple_typewriter)
-5. 🚀 Published release [v1.0.0](https://github.com/musfique113/flutter_simple_typewriter/releases/tag/v1.0.0) in [musfique113/flutter_simple_typewriter](https://github.com/musfique113/flutter_simple_typewriter)
-6. 💪 Opened PR [#4](https://github.com/musfique113/flutter_simple_typewriter/pull/4) in [musfique113/flutter_simple_typewriter](https://github.com/musfique113/flutter_simple_typewriter)
-7. 🎉 Merged PR [#3](https://github.com/musfique113/flutter_simple_typewriter/pull/3) in [musfique113/flutter_simple_typewriter](https://github.com/musfique113/flutter_simple_typewriter)
+1. 🚀 Published release [v1.0.2](https://github.com/musfique113/flutter_simple_typewriter/releases/tag/v1.0.2) in [musfique113/flutter_simple_typewriter](https://github.com/musfique113/flutter_simple_typewriter)
+2. 🎉 Merged PR [#8](https://github.com/musfique113/flutter_simple_typewriter/pull/8) in [musfique113/flutter_simple_typewriter](https://github.com/musfique113/flutter_simple_typewriter)
+3. 💪 Opened PR [#8](https://github.com/musfique113/flutter_simple_typewriter/pull/8) in [musfique113/flutter_simple_typewriter](https://github.com/musfique113/flutter_simple_typewriter)
+4. 🎉 Merged PR [#7](https://github.com/musfique113/flutter_simple_typewriter/pull/7) in [musfique113/flutter_simple_typewriter](https://github.com/musfique113/flutter_simple_typewriter)
+5. 💪 Opened PR [#7](https://github.com/musfique113/flutter_simple_typewriter/pull/7) in [musfique113/flutter_simple_typewriter](https://github.com/musfique113/flutter_simple_typewriter)
+6. 🎉 Merged PR [#6](https://github.com/musfique113/flutter_simple_typewriter/pull/6) in [musfique113/flutter_simple_typewriter](https://github.com/musfique113/flutter_simple_typewriter)
+7. 💪 Opened PR [#6](https://github.com/musfique113/flutter_simple_typewriter/pull/6) in [musfique113/flutter_simple_typewriter](https://github.com/musfique113/flutter_simple_typewriter)
 <!--END_SECTION:activity-->
 
 <details>	
