@@ -25,7 +25,7 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: True
           SHOW_TIMEZONE: True
           SHOW_LANGUAGE: True
-          SHOW_PROJECTS: True
+          SHOW_PROJECTS: False
           SHOW_OS: True
           SHOW_EDITORS: True 
           SHOW_PROFILE_VIEWS: False
