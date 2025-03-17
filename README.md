@@ -47,7 +47,7 @@
 <summary> Recent Activities</summary>
  
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.1+2](https://github.com/musfique113/weather/releases/tag/v1.0.1%2B2) in [musfique113/weather](https://github.com/musfique113/weather)
+1. 🗣 Commented on [#90963](https://github.com/flutter/flutter/issues/90963#issuecomment-2728682292) in [flutter/flutter](https://github.com/flutter/flutter)
 2. 🎉 Merged PR [#6](https://github.com/musfique113/weather/pull/6) in [musfique113/weather](https://github.com/musfique113/weather)
 3. 💪 Opened PR [#6](https://github.com/musfique113/weather/pull/6) in [musfique113/weather](https://github.com/musfique113/weather)
 4. 🎉 Merged PR [#5](https://github.com/musfique113/weather/pull/5) in [musfique113/weather](https://github.com/musfique113/weather)
