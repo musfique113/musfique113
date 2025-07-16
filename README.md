@@ -42,7 +42,30 @@
 |**OperatingSystem**      | [![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows) [![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/) |
 | **Frameworks & Tools**      | [![Flutter Badge](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter)](https://flutter.dev/) [![RESTful APIs Badge](https://img.shields.io/badge/-RESTful%20APIs-green?style=flat&logo=rest)](https://restfulapi.net/) [![Git](https://img.shields.io/badge/-Git-orange?logo=git)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/) [![Firebase](https://img.shields.io/badge/-Firebase-yellow?logo=firebase)](https://firebase.google.com/) [![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker)](https://www.docker.com/)|
 | **Socials**      | [![Twitter](https://img.shields.io/badge/-musfiquedotme-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/musfiquedotme) [![LinkedIn](https://img.shields.io/badge/-musfique113-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/musfique113) [![Facebook](https://img.shields.io/badge/-musfique.me-1877F2?style=flat&logo=Facebook&logoColor=white)](https://fb.com/musfique.me) [![Instagram](https://img.shields.io/badge/-musfique.me-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/musfique.me) [![Email](https://img.shields.io/badge/Email-musfique113%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:musfique113@gmail.com) [![Wakatime](https://img.shields.io/badge/-Wakatime-000000?logo=Wakatime&logoColor=#8c6dd7&style=flat)](https://wakatime.com/@musfique113) |
+## 🧑‍💻 Work Experience Timeline
 
+```
+
+🟢
+│
+├── 🏢  L2N Software Ltd.
+│   └── 📌 Software Engineer
+│       📅 Jan 2025 – Current
+│       🛠️ Tech Stack: Flutter, Firebase, REST APIs, Git, Riverpod, GetX, Docker, GitHub, Android Studio
+│
+├── 🏢 Ztrios Technologies Ltd.
+│   └── 📌 Mobile App Developer
+│       📅 May 2024 – December 2024
+│       🛠️ Tech Stack: Flutter, Dart, Firebase, GitHub Actions, CI/CD
+│
+├── 🏢 Contuctual Flutter Developer
+│   └── 📅 Jul 2023 – Present
+│       🛠️ Tech Stack: Flutter, Dart, Firebase, Java, Android Studio
+│
+🔴
+
+
+````
 
 <summary> Recent Activities</summary>
  
