@@ -45,12 +45,11 @@
 ## 🧑‍💻 Work Experience Timeline
 
 ```
-
 🟢
 │
 ├── 🏢  L2N Software Ltd.
 │   └── 📌 Software Engineer
-│       📅 Jan 2025 – Current
+│       📅 Jan 2025 – Present
 │       🛠️ Tech Stack: Flutter, Firebase, REST APIs, Git, Riverpod, GetX, Docker, GitHub, Android Studio
 │
 ├── 🏢 Ztrios Technologies Ltd.
@@ -63,8 +62,6 @@
 │       🛠️ Tech Stack: Flutter, Dart, Firebase, Java, Android Studio
 │
 🔴
-
-
 ````
 
 <summary> Recent Activities</summary>
