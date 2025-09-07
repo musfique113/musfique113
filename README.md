@@ -47,13 +47,13 @@
 <summary> Recent Activities</summary>
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#90963](https://github.com/flutter/flutter/issues/90963#issuecomment-2728682292) in [flutter/flutter](https://github.com/flutter/flutter)
-2. 🎉 Merged PR [#6](https://github.com/musfique113/weather/pull/6) in [musfique113/weather](https://github.com/musfique113/weather)
-3. 💪 Opened PR [#6](https://github.com/musfique113/weather/pull/6) in [musfique113/weather](https://github.com/musfique113/weather)
-4. 🎉 Merged PR [#5](https://github.com/musfique113/weather/pull/5) in [musfique113/weather](https://github.com/musfique113/weather)
-5. 💪 Opened PR [#5](https://github.com/musfique113/weather/pull/5) in [musfique113/weather](https://github.com/musfique113/weather)
-6. 🎉 Merged PR [#4](https://github.com/musfique113/weather/pull/4) in [musfique113/weather](https://github.com/musfique113/weather)
-7. 💪 Opened PR [#4](https://github.com/musfique113/weather/pull/4) in [musfique113/weather](https://github.com/musfique113/weather)
+1. 🎉 Merged PR [#4](https://github.com/musfique113/go-job-portal-backend/pull/4) in [musfique113/go-job-portal-backend](https://github.com/musfique113/go-job-portal-backend)
+2. 💪 Opened PR [#4](https://github.com/musfique113/go-job-portal-backend/pull/4) in [musfique113/go-job-portal-backend](https://github.com/musfique113/go-job-portal-backend)
+3. 🎉 Merged PR [#3](https://github.com/musfique113/go-job-portal-backend/pull/3) in [musfique113/go-job-portal-backend](https://github.com/musfique113/go-job-portal-backend)
+4. 💪 Opened PR [#3](https://github.com/musfique113/go-job-portal-backend/pull/3) in [musfique113/go-job-portal-backend](https://github.com/musfique113/go-job-portal-backend)
+5. 🎉 Merged PR [#2](https://github.com/musfique113/go-job-portal-backend/pull/2) in [musfique113/go-job-portal-backend](https://github.com/musfique113/go-job-portal-backend)
+6. 💪 Opened PR [#2](https://github.com/musfique113/go-job-portal-backend/pull/2) in [musfique113/go-job-portal-backend](https://github.com/musfique113/go-job-portal-backend)
+7. 🎉 Merged PR [#1](https://github.com/musfique113/go-job-portal-backend/pull/1) in [musfique113/go-job-portal-backend](https://github.com/musfique113/go-job-portal-backend)
 <!--END_SECTION:activity-->
 
 <details>	
