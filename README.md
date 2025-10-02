@@ -47,7 +47,7 @@
 <summary> Recent Activities</summary>
  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/musfique113/go-job-portal-backend/pull/4) in [musfique113/go-job-portal-backend](https://github.com/musfique113/go-job-portal-backend)
+1. 💪 Opened PR [#6](https://github.com/musfique113/lingua/pull/6) in [musfique113/lingua](https://github.com/musfique113/lingua)
 2. 💪 Opened PR [#4](https://github.com/musfique113/go-job-portal-backend/pull/4) in [musfique113/go-job-portal-backend](https://github.com/musfique113/go-job-portal-backend)
 3. 🎉 Merged PR [#3](https://github.com/musfique113/go-job-portal-backend/pull/3) in [musfique113/go-job-portal-backend](https://github.com/musfique113/go-job-portal-backend)
 4. 💪 Opened PR [#3](https://github.com/musfique113/go-job-portal-backend/pull/3) in [musfique113/go-job-portal-backend](https://github.com/musfique113/go-job-portal-backend)
