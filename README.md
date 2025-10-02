@@ -47,12 +47,12 @@
 <summary> Recent Activities</summary>
  
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/musfique113/lingua/pull/6) in [musfique113/lingua](https://github.com/musfique113/lingua)
-2. 💪 Opened PR [#4](https://github.com/musfique113/go-job-portal-backend/pull/4) in [musfique113/go-job-portal-backend](https://github.com/musfique113/go-job-portal-backend)
-3. 🎉 Merged PR [#3](https://github.com/musfique113/go-job-portal-backend/pull/3) in [musfique113/go-job-portal-backend](https://github.com/musfique113/go-job-portal-backend)
-4. 💪 Opened PR [#3](https://github.com/musfique113/go-job-portal-backend/pull/3) in [musfique113/go-job-portal-backend](https://github.com/musfique113/go-job-portal-backend)
-5. 🎉 Merged PR [#2](https://github.com/musfique113/go-job-portal-backend/pull/2) in [musfique113/go-job-portal-backend](https://github.com/musfique113/go-job-portal-backend)
-6. 💪 Opened PR [#2](https://github.com/musfique113/go-job-portal-backend/pull/2) in [musfique113/go-job-portal-backend](https://github.com/musfique113/go-job-portal-backend)
+1. 🚀 Published release [Lingua v1.0.1](https://github.com/musfique113/lingua/releases/tag/v1.0.1%2B2) in [musfique113/lingua](https://github.com/musfique113/lingua)
+2. 🎉 Merged PR [#7](https://github.com/musfique113/lingua/pull/7) in [musfique113/lingua](https://github.com/musfique113/lingua)
+3. 💪 Opened PR [#7](https://github.com/musfique113/lingua/pull/7) in [musfique113/lingua](https://github.com/musfique113/lingua)
+4. 🚀 Published release [Lingua v1.0.0](https://github.com/musfique113/lingua/releases/tag/v1.0.0) in [musfique113/lingua](https://github.com/musfique113/lingua)
+5. 🎉 Merged PR [#6](https://github.com/musfique113/lingua/pull/6) in [musfique113/lingua](https://github.com/musfique113/lingua)
+6. 💪 Opened PR [#6](https://github.com/musfique113/lingua/pull/6) in [musfique113/lingua](https://github.com/musfique113/lingua)
 7. 🎉 Merged PR [#1](https://github.com/musfique113/go-job-portal-backend/pull/1) in [musfique113/go-job-portal-backend](https://github.com/musfique113/go-job-portal-backend)
 <!--END_SECTION:activity-->
 
