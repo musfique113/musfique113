@@ -48,8 +48,8 @@
  
 <!--START_SECTION:activity-->
 1. 🚀 Published release [Lingua v1.0.1](https://github.com/musfique113/lingua/releases/tag/v1.0.1%2B2) in [musfique113/lingua](https://github.com/musfique113/lingua)
-2. 🎉 Merged PR [#7](https://github.com/musfique113/lingua/pull/7) in [musfique113/lingua](https://github.com/musfique113/lingua)
-3. 💪 Opened PR [#7](https://github.com/musfique113/lingua/pull/7) in [musfique113/lingua](https://github.com/musfique113/lingua)
+2. 💪 Opened PR [#7](undefined) in [musfique113/lingua](https://github.com/musfique113/lingua)
+3. 💪 Opened PR [#6](undefined) in [musfique113/lingua](https://github.com/musfique113/lingua)
 4. 🚀 Published release [Lingua v1.0.0](https://github.com/musfique113/lingua/releases/tag/v1.0.0) in [musfique113/lingua](https://github.com/musfique113/lingua)
 5. 🎉 Merged PR [#6](https://github.com/musfique113/lingua/pull/6) in [musfique113/lingua](https://github.com/musfique113/lingua)
 6. 💪 Opened PR [#6](https://github.com/musfique113/lingua/pull/6) in [musfique113/lingua](https://github.com/musfique113/lingua)
