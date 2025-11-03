@@ -60,7 +60,7 @@
 <summary>Wakatime Stats</summary>  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C879%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C881%20hrs%2046%20mins-blue)
 
 **I Mostly Code in Dart** 
 
@@ -75,7 +75,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/11/2025 @01:26:26 UTC
+ Last Updated on 03/11/2025 @01:25:17 UTC
 <!--END_SECTION:waka-->
 </details>	
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musfique113&label=Profile%20views&color=0e75b6&style=flat" alt="musfique113" /> </p> 
