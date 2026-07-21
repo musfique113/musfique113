@@ -48,13 +48,14 @@ Oct 2019 – Sep 2023 · Mirpur, Dhaka
 <br>
 
 ## 🛠️ Stack
-
-- **Languages:** Dart, JavaScript, TypeScript, Python, Go
-- **Mobile Development:** Flutter, BLoC/Cubit, GetX, GoRouter
-- **Web & Backend:** Node.js, Express, Next.js, REST APIs, Socket.io
-- **Databases & ORM:** PostgreSQL, MySQL, Prisma ORM
-- **DevOps & Infrastructure:** AWS (EC2), Docker, Cloudflare R2, CI/CD (Fastlane, GitHub Actions)
-- **Architecture & Design:** Clean Architecture, Layered Domain Design, Mobile-First Design
+  
+- **Languages:** Dart, JavaScript, TypeScript, Kotlin, Go, Python
+- **Mobile Development:** Flutter, BLoC/Cubit, Riverpod, Provider, GetX, App Store & Play Store Deployment
+- **Web & Backend:** Node.js, Express, Next.js, React, REST API Design
+- **Databases & BaaS:** PostgreSQL, MySQL, Prisma ORM, Firebase Firestore
+- **DevOps & Cloud:** AWS (EC2), Docker, Cloudflare R2, CI/CD (Fastlane, GitHub Actions)
+- **Architecture & Practices:** Clean Architecture, Repository Pattern, SOLID Principles, TDD, Code Review
+- **Integrations:** Google Maps API, VoIP, Push Notifications
 
 <br>
 
@@ -74,10 +75,6 @@ Oct 2019 – Sep 2023 · Mirpur, Dhaka
 The full project archive, including additional shipped apps, is available at [here](https://github.com/musfique113/project_showcase).
 
 <br>
-
-## How I work
-
-I prioritize well-documented, industry-standard architectures over clever abstractions, so handoffs and team scalability stay easy. I advocate for rigorous upfront data modeling and system design to prevent downstream technical debt rather than fixing it later. I approach full-stack development as a single ecosystem, treating mobile and backend as one system rather than two teams' problems, which is where most integration bugs actually live.
 
 <br>
 
