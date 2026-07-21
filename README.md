@@ -12,14 +12,6 @@ Building mobile apps and the backend systems that run behind them.
 
 <br>
 
-## 🔭 Currently
-
-- **Enterprise ERP System:** full-stack platform for a five-unit apparel manufacturing group
-- **HR Platform:** Flutter attendance/leave app paired with a Next.js payroll and benefits system
-- **Brand & Inventory Platform:** QR-enabled inventory and product-variant system, deployed on AWS
-
-<br>
-
 ## 💼 Experience
 
 **Software Engineer, Flutter** at L2N Software Limited
@@ -48,7 +40,7 @@ Oct 2019 – Sep 2023 · Mirpur, Dhaka
 <br>
 
 ## 🛠️ Stack
-  
+
 - **Languages:** Dart, JavaScript, TypeScript, Kotlin, Go, Python
 - **Mobile Development:** Flutter, BLoC/Cubit, Riverpod, Provider, GetX, App Store & Play Store Deployment
 - **Web & Backend:** Node.js, Express, Next.js, React, REST API Design
@@ -72,17 +64,21 @@ Oct 2019 – Sep 2023 · Mirpur, Dhaka
 - **[GPL Chemist App](https://play.google.com/store/apps/details?id=com.gpl.gpl_chemist_app&hl=en)**: Pharmacy ordering app for GPL customers
   - Flutter · GetX · Clean Architecture
 
-The full project archive, including additional shipped apps, is available at [here](https://github.com/musfique113/project_showcase).
+The full project archive, including additional shipped apps, is available [here](https://github.com/musfique113/project_showcase).
 
 <br>
+
+## 🔭 Currently
+
+- **Enterprise ERP System:** full-stack platform for a five-unit apparel manufacturing group
+- **HR Platform:** Flutter attendance/leave app paired with a Next.js payroll and benefits system
+- **Brand & Inventory Platform:** QR-enabled inventory and product-variant system, deployed on AWS
 
 <br>
 
 <div align="center">
 
-<br>
-
-![Profile views](https://komarev.com/ghpvc/?username=musfique113&label=Profile%20views&color=2E8B47&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=musfique113&label=Profile%20views&color=1E3A5F&style=flat)
 
 </div>
 
@@ -100,63 +96,60 @@ The full project archive, including additional shipped apps, is available at [he
 <summary>WakaTime stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C708%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C708%20hrs%2058%20mins-1E3A5F?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1822 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-🌆 Daytime                6107 commits        ██████████░░░░░░░░░░░░░░░   40.94 % 
-🌃 Evening                4587 commits        ████████░░░░░░░░░░░░░░░░░   30.75 % 
-🌙 Night                  2400 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-```
-📅 **I'm Most Productive on Tuesday** 
+**I'm an Early 🐤**
 
 ```text
-Monday                   2451 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Tuesday                  2476 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-Wednesday                2201 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Thursday                 2083 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Friday                   1469 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-Saturday                 2113 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Sunday                   2123 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+🌞 Morning                1822 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.22 %
+🌆 Daytime                6107 commits        ██████████░░░░░░░░░░░░░░░   40.94 %
+🌃 Evening                4587 commits        ████████░░░░░░░░░░░░░░░░░   30.75 %
+🌙 Night                  2400 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.09 %
 ```
 
+📅 **I'm Most Productive on Tuesday**
 
-📊 **This Week I Spent My Time On** 
+```text
+Monday                   2451 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.43 %
+Tuesday                  2476 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.60 %
+Wednesday                2201 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.76 %
+Thursday                 2083 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 %
+Friday                   1469 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 %
+Saturday                 2113 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.17 %
+Sunday                   2123 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.23 %
+```
+
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Dhaka
 
-💬 Programming Languages: 
-JavaScript               18 hrs 50 mins      █████████████████░░░░░░░░   68.70 % 
-Markdown                 2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-Prisma                   1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Dart                     1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-YAML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+💬 Programming Languages:
+JavaScript               18 hrs 50 mins      █████████████████░░░░░░░░   68.70 %
+Markdown                 2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.54 %
+Prisma                   1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
+Dart                     1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
+YAML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
 
-🔥 Editors: 
-Antigravity IDE          25 hrs 11 mins      ███████████████████████░░   91.89 % 
-Android Studio           2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+🔥 Editors:
+Antigravity IDE          25 hrs 11 mins      ███████████████████████░░   91.89 %
+Android Studio           2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
 
-💻 Operating System: 
-Mac                      27 hrs 25 mins      █████████████████████████   100.00 % 
+💻 Operating System:
+Mac                      27 hrs 25 mins      █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in Dart** 
+**I Mostly Code in Dart**
 
 ```text
-Dart                     71 repos            ████████████████░░░░░░░░░   65.14 % 
-C++                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-JavaScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-Kotlin                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Dart                     71 repos            ████████████████░░░░░░░░░   65.14 %
+C++                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+JavaScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+Kotlin                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
-
-
-
- Last Updated on 21/07/2026 @05:54:57 UTC
+Last Updated on 21/07/2026 @05:54:57 UTC
 <!--END_SECTION:waka-->
 
 </details>
