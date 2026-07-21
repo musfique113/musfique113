@@ -103,6 +103,63 @@ I prioritize well-documented, industry-standard architectures over clever abstra
 <summary>WakaTime stats</summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C708%20hrs%2058%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1822 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+🌆 Daytime                6107 commits        ██████████░░░░░░░░░░░░░░░   40.94 % 
+🌃 Evening                4587 commits        ████████░░░░░░░░░░░░░░░░░   30.75 % 
+🌙 Night                  2400 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   2451 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Tuesday                  2476 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+Wednesday                2201 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+Thursday                 2083 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Friday                   1469 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Saturday                 2113 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Sunday                   2123 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+JavaScript               18 hrs 50 mins      █████████████████░░░░░░░░   68.70 % 
+Markdown                 2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Prisma                   1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Dart                     1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+YAML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+
+🔥 Editors: 
+Antigravity IDE          25 hrs 11 mins      ███████████████████████░░   91.89 % 
+Android Studio           2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+
+💻 Operating System: 
+Mac                      27 hrs 25 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Dart** 
+
+```text
+Dart                     71 repos            ████████████████░░░░░░░░░   65.14 % 
+C++                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+JavaScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Kotlin                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+```
+
+
+
+
+ Last Updated on 21/07/2026 @05:54:57 UTC
 <!--END_SECTION:waka-->
 
 </details>
