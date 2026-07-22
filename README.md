@@ -96,60 +96,63 @@ The full project archive, including additional shipped apps, is available [here]
 <summary>WakaTime stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C708%20hrs%2058%20mins-1E3A5F?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C712%20hrs%2010%20mins-blue?style=flat)
 
-**I'm an Early 🐤**
-
-```text
-🌞 Morning                1822 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.22 %
-🌆 Daytime                6107 commits        ██████████░░░░░░░░░░░░░░░   40.94 %
-🌃 Evening                4587 commits        ████████░░░░░░░░░░░░░░░░░   30.75 %
-🌙 Night                  2400 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.09 %
-```
-
-📅 **I'm Most Productive on Tuesday**
+**I'm an Early 🐤** 
 
 ```text
-Monday                   2451 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.43 %
-Tuesday                  2476 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.60 %
-Wednesday                2201 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.76 %
-Thursday                 2083 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 %
-Friday                   1469 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 %
-Saturday                 2113 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.17 %
-Sunday                   2123 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.23 %
+🌞 Morning                1784 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+🌆 Daytime                5979 commits        ██████████░░░░░░░░░░░░░░░   40.96 % 
+🌃 Evening                4495 commits        ████████░░░░░░░░░░░░░░░░░   30.80 % 
+🌙 Night                  2338 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   2403 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+Tuesday                  2435 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+Wednesday                2150 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Thursday                 2053 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Friday                   1431 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Saturday                 2061 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Sunday                   2063 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
 ```
 
-📊 **This Week I Spent My Time On**
+
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Dhaka
 
-💬 Programming Languages:
-JavaScript               18 hrs 50 mins      █████████████████░░░░░░░░   68.70 %
-Markdown                 2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.54 %
-Prisma                   1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
-Dart                     1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
-YAML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+💬 Programming Languages: 
+JavaScript               15 hrs 59 mins      ████████████████░░░░░░░░░   65.71 % 
+Markdown                 3 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Prisma                   1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+Dart                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+YAML                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
 
-🔥 Editors:
-Antigravity IDE          25 hrs 11 mins      ███████████████████████░░   91.89 %
-Android Studio           2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
+🔥 Editors: 
+Antigravity IDE          22 hrs 14 mins      ███████████████████████░░   91.46 % 
+Android Studio           2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
 
-💻 Operating System:
-Mac                      27 hrs 25 mins      █████████████████████████   100.00 %
+💻 Operating System: 
+Mac                      24 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Dart**
+**I Mostly Code in Dart** 
 
 ```text
-Dart                     71 repos            ████████████████░░░░░░░░░   65.14 %
-C++                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
-JavaScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-Kotlin                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Dart                     70 repos            ████████████████░░░░░░░░░   64.81 % 
+C++                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+JavaScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+Kotlin                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 ```
 
-Last Updated on 21/07/2026 @05:54:57 UTC
+
+
+
+ Last Updated on 22/07/2026 @02:28:57 UTC
 <!--END_SECTION:waka-->
 
 </details>
